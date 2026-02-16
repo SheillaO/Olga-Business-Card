@@ -1,19 +1,20 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🚀 The "Glassmorphic" Launch Card
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Most business cards are static; this one is a conversion engine. Built for my coding class, this project bridges the gap between clean frontend engineering and high-impact product marketing.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Why it stands out:
+<span>
+•The "Vibe": Uses 2026 Glassmorphism (frosted glass) and a high-contrast palette to move away from "basic" corporate styles and toward a premium SaaS aesthetic.
+</span>
+<span>
+•Engineered for Action: The "Tiger Flame" CTA isn't just a button—it’s built with layered glow effects and cubic-bezier transitions to drive "click-through" intent.
+</span>
+<span>
+•The T-PMM Mindset: I didn't just style text; I established a visual hierarchy that anchors on the value proposition ("Bridging the gap...") before leading the user to the conversion point.
+</span>
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+The Tech Specs:
+<br/>
+CSS Architecture: Custom variables, pseudo-element glows, and backdrop-filter blurs.
+<br/>
+UX-First Approach: Focused on vertical rhythm, "breathable" white space, and interactive status indicators.
