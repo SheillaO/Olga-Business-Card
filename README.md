@@ -13,8 +13,6 @@ Why it stands out:
 •The T-PMM Mindset: I didn't just style text; I established a visual hierarchy that anchors on the value proposition ("Bridging the gap...") before leading the user to the conversion point.
 </span>
 
-The Tech Specs:
-<br/>
+🛠 The Tech Specs:
 CSS Architecture: Custom variables, pseudo-element glows, and backdrop-filter blurs.
-<br/>
 UX-First Approach: Focused on vertical rhythm, "breathable" white space, and interactive status indicators.
